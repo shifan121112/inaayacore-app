@@ -4,7 +4,7 @@
   <groupId>com.inaaya.app</groupId>
   <artifactId>inaayacore-app</artifactId>
   <packaging>jar</packaging>
-  <version>2.0-Release</version>
+  <version>2.0-SNAPSHOT</version>
   <name>inaayacore-app</name>
   <url>http://maven.apache.org</url>
 
